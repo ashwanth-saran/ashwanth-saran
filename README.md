@@ -109,14 +109,14 @@ Hobbies   : CTF Challenges | Security Research | Building Tools
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ashwanth-saran&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00ff41&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanth-saran&layout=compact&langs_count=6&theme=chartreuse-dark&border_color=00ff41&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ashwanth-saran&show_icons=true&include_all_commits=true&count_private=true&border_color=00ff41&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanth-saran&layout=compact&langs_count=6&border_color=00ff41&bg_color=0d1117&title_color=00ff41&text_color=ffffff" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ashwanth-saran&theme=matrix&border=00FF41&background=0D1117&ring=00FF41&fire=ff4444&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888)
+![GitHub Streak](https://streak-stats.demolab.com?user=ashwanth-saran&theme=matrix&border=00FF41&background=0D1117&ring=00FF41&fire=ff4444&currStreakLabel=00FF41&sideLabels=00FF41&dates=ffffff&stroke=00FF41&text=ffffff)
 
 </div>
 
