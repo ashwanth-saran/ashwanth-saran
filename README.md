@@ -18,9 +18,10 @@
 
 ```yaml
 Name      : Ashwanth Saran JC
-Role      : SOC Analyst
+Role      : SOC Analyst @ Amvion Labs Pvt Ltd 🏢
 Location  : Chennai, India 🇮🇳
 Portfolio : ashufoilo.netlify.app
+Blog      : medium.com/@ashwanthsaranjc
 Focus     :
   - Threat Detection & Hunting
   - Incident Response & Triage
@@ -88,6 +89,22 @@ Hobbies   : CTF Challenges | Security Research | Building Tools
 
 ---
 
+### `> cat current_mission.txt`
+
+<div align="center">
+
+| | |
+|---|---|
+| 🏢 **Company** | Amvion Labs Pvt Ltd |
+| 💼 **Role** | SOC Analyst |
+| 📍 **Base** | Chennai, India |
+| 🎯 **Mission** | Monitoring, detecting & responding to cyber threats in real-time |
+| ✍️ **Writing** | Security insights & threat research on [Medium](https://medium.com/@ashwanthsaranjc) |
+
+</div>
+
+---
+
 ### `> cat github_stats.log`
 
 <div align="center">
@@ -129,8 +146,9 @@ Hobbies   : CTF Challenges | Security Research | Building Tools
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ashufoilo.netlify.app-00ff41?style=for-the-badge&labelColor=0d1117)](https://ashufoilo.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ashwanthsaran08-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwanthsaran08/)
+[![Medium](https://img.shields.io/badge/Medium-ashwanthsaranjc-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashwanthsaranjc)
 [![Instagram](https://img.shields.io/badge/Instagram-ash.wxnth-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ash.wxnth/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-ashwanthsaranjc-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ashwanthsaranjc)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111927)](https://app.hackthebox.com/)
 
 </div>
